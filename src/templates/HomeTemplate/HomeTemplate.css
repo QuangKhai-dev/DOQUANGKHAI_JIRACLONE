@@ -1,0 +1,46 @@
+.header-top{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.header-top-item {
+    text-align: center;
+    font-size: 18px;
+}
+.header-top-item i {
+    border-radius: 50%;
+}
+.header-top-item i:hover {
+    background-color: #1c63ce;
+}
+
+.header-bottom{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.header-bottom-item {
+    text-align: center;
+    font-size: 18px;
+}
+
+.project-info h1 {
+    color: rgba(66,82,110);
+    font-size: 13px;
+    font-weight: bold;
+    
+}
+.project-info p {
+    color: #5e6c84;
+}
+
+.function-item {
+    font-size: 16px;
+    padding: 5px;
+}
+.function-item:hover {
+    background-color: #EBECF0;
+}
